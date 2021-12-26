@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 8
+names: ['b', 'bk', 'bl', 'br', 'tl', 'tr', 'w', 'wk']
